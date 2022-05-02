@@ -11,6 +11,7 @@ package com.mycompany.mycicd;
 public class Employee {
     int id;
     String name;
+    int a=0;
 
     public int getId() {
         return id;
@@ -43,3 +44,4 @@ public class Employee {
     
     
 }
+                
